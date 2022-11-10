@@ -1,0 +1,5 @@
+rootProject.name = 'marketbom2'
+include 'marketbom2-boot-api'
+include 'marketbom2-domain'
+include 'marketbom2-module-excel-download'
+
